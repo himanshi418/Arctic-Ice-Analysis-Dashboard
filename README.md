@@ -33,7 +33,7 @@ An interactive **Streamlit dashboard** for analyzing Arctic Ice data with **visu
 
 ## 🤖 Machine Learning
 
-Model used: :contentReference[oaicite:0]{index=0}
+Model used: Random Forest Regressor (Machine Learning)
 
 - R² Score: ~0.99  
 - Cross-validation R²: ~0.98  
